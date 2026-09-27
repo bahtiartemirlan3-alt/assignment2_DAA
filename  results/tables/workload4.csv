@@ -1,0 +1,5 @@
+n,Insert_Time_ns,Extract_Time_ns,Comparisons,Insert_Complexity,ExtractMin_Complexity,PeekMin_Complexity
+100,26580,82020,1035,O(log n),O(log n),Theta(1)
+1000,61840,138100,17226,O(log n),O(log n),Theta(1)
+10000,494800,1246800,239329,O(log n),O(log n),Theta(1)
+100000,1875660,8336700,3059125,O(log n),O(log n),Theta(1)

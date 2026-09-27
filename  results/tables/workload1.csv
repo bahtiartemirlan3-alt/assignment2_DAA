@@ -1,0 +1,5 @@
+n,DynamicArray_Time_ns,LinkedList_Time_ns,DynamicArray_Accesses,LinkedList_Accesses,DynamicArray_Complexity,LinkedList_Complexity
+100,662980,1690080,10000,511327,Theta(1),Theta(n)
+1000,74700,10282320,10000,5021262,Theta(1),Theta(n)
+10000,69760,105146660,10000,50188951,Theta(1),Theta(n)
+100000,6320,752097000,10000,504940938,Theta(1),Theta(n)
